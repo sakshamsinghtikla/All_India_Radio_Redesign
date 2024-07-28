@@ -1,0 +1,1281 @@
+.clients .frame-1 {
+  border-radius: 26px;
+  position: absolute;
+  left: 50%;
+  top: 129px;
+  translate: -50% 0;
+  width: 1043px;
+  height: 88px;
+}
+.clients .download-removebg-preview-153 {
+  background: url('../assets/images/download_removebg_preview_153.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 67px;
+  top: 79px;
+  width: 194px;
+  height: 194px;
+}
+.clients .download-removebg-preview-191 {
+  background: url('../assets/images/download_removebg_preview_191.png') 50% / cover no-repeat;
+  margin: 0 29px 18px 0;
+  align-self: center;
+  width: 70px;
+  height: 114px;
+}
+.clients .search {
+  margin: 3px 20px 11px 0;
+  display: inline-block;
+  width: 112px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 33px;
+  color: #383086;
+}
+.clients .sign-up {
+  margin: 12px 6.4px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #3A3085;
+}
+.clients .login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #F1F4FD;
+}
+.clients .container-18 {
+  border-radius: 14px;
+  background: #3A3085;
+  position: relative;
+  padding: 12px 20px 13px 20px;
+  width: 109px;
+  box-sizing: border-box;
+}
+.clients .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clients .container-29 {
+  margin: 0 89px 40px 89px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1287px;
+  box-sizing: border-box;
+}
+.clients .home {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .group-16 {
+  margin: 14px 0 9px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.clients .corporate {
+  margin: 18px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .listeners {
+  margin: 18px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .viewers {
+  margin: 18px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .clients-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.clients .group-35 {
+  border-radius: 13px;
+  background: #383086;
+  position: relative;
+  display: flex;
+  padding: 18px 15.1px 13px 13px;
+  box-sizing: border-box;
+}
+.clients .talent {
+  margin: 18px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .latest {
+  margin: 18px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .blog {
+  margin: 18px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .container-15 {
+  box-shadow: 9px 7px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 17.6px 8px 46px;
+  width: 1418px;
+  box-sizing: border-box;
+}
+.clients .shape-5 {
+  width: 41px;
+  height: 44px;
+}
+.clients .group-34 {
+  border-radius: 30px;
+  background: #3A3085;
+  position: relative;
+  margin: 11px 0 8px 0;
+  display: flex;
+  padding: 9px 9px 7px 10px;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.clients .container-3 {
+  margin: 0 93px 0 164px;
+  display: flex;
+  flex-direction: row;
+  width: 1518px;
+  box-sizing: border-box;
+}
+.clients .rectangle-36 {
+  background: #F1F4FD;
+  position: absolute;
+  top: 247px;
+  right: 111px;
+  width: 561px;
+  height: 285px;
+}
+.clients .channels-4-profile-removebg-preview-11 {
+  background: url('../assets/images/channels_4_profile_removebg_preview_11.png') 50% / cover no-repeat;
+  margin-bottom: 292px;
+  align-self: flex-end;
+  width: 146px;
+  height: 146px;
+}
+.clients .on-dd-national {
+  margin-bottom: 71px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 44px;
+  color: #1E3489;
+}
+.clients .mann-ki-baat-is-amonthly-radio-program-of-pm-narendra-modi-where-he-interacts-with-citizens-of-india-on-themes-and-issues-that-matters-to-the-nation {
+  margin: 0 13.7px 18px 13.7px;
+  display: inline-block;
+  align-self: flex-start;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #383086;
+}
+.clients .watch-now {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.clients .group-24 {
+  border-radius: 13px;
+  background: #383086;
+  position: relative;
+  margin-right: 33px;
+  display: flex;
+  align-self: center;
+  padding: 13px 10.3px 10px 10px;
+  box-sizing: border-box;
+}
+.clients .container-26 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.clients .screenshot-20240704131057-removebg-preview-1 {
+  background: url('../assets/images/screenshot_20240704131057_removebg_preview_1.png') 50% / cover no-repeat;
+  position: relative;
+  width: 362px;
+  height: 296px;
+}
+.clients .rectangle-37 {
+  background: #F1F4FD;
+  position: absolute;
+  left: 0px;
+  right: 39px;
+  bottom: 0px;
+  height: 136px;
+}
+.clients .screenshot-20240704131057-removebg-preview-11 {
+  background: url('../assets/images/screenshot_20240704131057_removebg_preview_11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 41px;
+  right: 0px;
+  bottom: 0px;
+  height: 394px;
+}
+.clients .group-15 {
+  position: absolute;
+  top: 15px;
+  right: 179px;
+  display: flex;
+  padding: 0 41px 34px 41px;
+  width: 523px;
+  height: 394px;
+  box-sizing: border-box;
+}
+.clients .group-20 {
+  position: absolute;
+  right: 451px;
+  bottom: 427px;
+  width: 210px;
+  height: 85px;
+}
+.clients .live {
+  position: absolute;
+  right: 559.8px;
+  bottom: 437px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.clients .container-25 {
+  box-shadow: 8px 4px 4px 0px rgba(0, 0, 0, 0.13);
+  background: url('../assets/images/maxresdefault_removebg_preview_11.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 37px 5px 10px;
+  display: flex;
+  padding: 28px 27px 0 27px;
+  width: 1728px;
+  height: 973px;
+  box-sizing: border-box;
+}
+.clients .rectangle-49 {
+  box-shadow: 19px 18px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 31px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 73px;
+  top: 101px;
+  width: 1583px;
+  height: 638px;
+}
+.clients .ellipse-8 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.clients .rectangle-73 {
+  border-radius: 0 0 31px 31px;
+  background: #D4DBF5;
+  position: absolute;
+  left: 74px;
+  right: 110px;
+  bottom: 63px;
+  height: 558px;
+}
+.clients .vector-6 {
+  border-radius: 31px;
+  position: absolute;
+  left: 74px;
+  top: 101px;
+  width: 1582px;
+  height: 418px;
+}
+.clients .shape-8 {
+  width: 63.3px;
+  height: 63.3px;
+}
+.clients .general-fill-globe {
+  display: flex;
+  width: 76px;
+  height: 76px;
+  box-sizing: border-box;
+}
+.clients .container-33 {
+  border-radius: 50px;
+  background: #D4DBF5;
+  position: relative;
+  margin: 0 11px 10px 0;
+  display: flex;
+  padding: 19.3px 18.3px 17.3px 18.3px;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.clients .tv-networks {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.clients .prasar-bharati-network {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.clients .group-26 {
+  position: relative;
+  margin-top: 19px;
+  padding: 52px 2px 0 2px;
+  width: 1000px;
+  box-sizing: border-box;
+}
+.clients .group-27 {
+  position: absolute;
+  left: 144px;
+  top: 153px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clients .download-removebg-preview-171 {
+  background: url('../assets/images/download_removebg_preview_172.png') 50% / cover no-repeat;
+  margin-bottom: 13px;
+  width: 176px;
+  height: 176px;
+}
+.clients .akashvani {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-38 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: relative;
+  display: flex;
+  padding: 25px 7px 24px 7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clients .container-31 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 29px;
+  box-sizing: border-box;
+}
+.clients .image-31 {
+  background: url('../assets/images/image_31.png') 50% / cover no-repeat;
+  width: 170px;
+  height: 170px;
+}
+.clients .container-9 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding-top: 35px;
+  width: 230px;
+  height: 315px;
+  box-sizing: border-box;
+}
+.clients .rectangle-65 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  width: 230px;
+  height: 315px;
+}
+.clients .rectangle-66 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  width: 230px;
+  height: 315px;
+}
+.clients .rectangle-69 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  width: 230px;
+  height: 315px;
+}
+.clients .group-25 {
+  border-radius: 44px;
+  position: absolute;
+  left: 50%;
+  bottom: 161px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 49px;
+  box-sizing: border-box;
+}
+.clients .image-32 {
+  background: url('../assets/images/image_32.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 663px;
+  bottom: 223px;
+  width: 432px;
+  height: 288px;
+}
+.clients .image-33 {
+  background: url('../assets/images/image_33.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 469px;
+  bottom: 308px;
+  width: 255px;
+  height: 142px;
+}
+.clients .image-34 {
+  background: url('../assets/images/image_34.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 172px;
+  bottom: 254px;
+  width: 285px;
+  height: 222px;
+}
+.clients .view-all-networks {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 28px;
+  color: #383086;
+}
+.clients .group-28 {
+  border-radius: 13px;
+  background: #D4DBF5;
+  position: absolute;
+  top: 195px;
+  right: 204px;
+  display: flex;
+  padding: 13px 14.5px 10px 21px;
+  box-sizing: border-box;
+}
+.clients .doordarshan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-7 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: absolute;
+  left: 491px;
+  bottom: 161px;
+  display: flex;
+  padding: 25px 5.5px 24px 10px;
+  box-sizing: border-box;
+}
+.clients .dd-india {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-4 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: absolute;
+  right: 487px;
+  bottom: 161px;
+  display: flex;
+  padding: 25px 0 24px 11px;
+  width: 230px;
+  box-sizing: border-box;
+}
+.clients .dd-news {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-27 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: absolute;
+  left: 50%;
+  bottom: 161px;
+  translate: -50% 0;
+  display: flex;
+  padding: 25px 4.8px 24px 0;
+  width: 230px;
+  box-sizing: border-box;
+}
+.clients .akashvani-samachaar {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.clients .container-19 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: absolute;
+  right: 208px;
+  bottom: 161px;
+  display: flex;
+  padding: 10px 20.1px 3px 20.1px;
+  width: 230px;
+  box-sizing: border-box;
+}
+.clients .container-2 {
+  background: #EEF1F8;
+  position: relative;
+  margin: 0 0 72px 9px;
+  display: flex;
+  padding: 160px 1192px 542px 0;
+  width: 1766px;
+  height: 802px;
+  box-sizing: border-box;
+}
+.clients .prasar-bharati-archives {
+  margin-bottom: 76px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 54px;
+  color: #383086;
+}
+.clients .download-removebg-preview-172 {
+  background: url('../assets/images/download_removebg_preview_172.png') 50% / cover no-repeat;
+  margin: 69px 127px 0 0;
+  width: 199px;
+  height: 199px;
+}
+.clients .image-36 {
+  background: url('../assets/images/image_36.png') 50% / cover no-repeat;
+  margin-right: 155px;
+  width: 653px;
+  height: 268px;
+}
+.clients .images-removebg-preview-51 {
+  background: url('../assets/images/images_removebg_preview_51.png') 50% / cover no-repeat;
+  margin: 77px 0 9px 0;
+  width: 181px;
+  height: 182px;
+}
+.clients .container-13 {
+  display: flex;
+  flex-direction: row;
+  width: 1315px;
+  box-sizing: border-box;
+}
+.clients .prasar-bharati-archives-1 {
+  margin: 0 11px 62px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 51px;
+  color: rgba(0, 0, 0, 0.73);
+}
+.clients .atreasure-trove-of-indian-culture {
+  margin: 0 73.4px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 80px;
+  color: rgba(23, 23, 23, 0.78);
+}
+.clients .learn-more {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.clients .group-31 {
+  border-radius: 13px;
+  background: #383086;
+  position: relative;
+  margin-left: 461px;
+  display: flex;
+  padding: 11px 4.9px 12px 0;
+  width: 224px;
+  box-sizing: border-box;
+}
+.clients .container-36 {
+  box-shadow: 8px -2px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  background: linear-gradient(rgba(125, 139, 189, 0.73), rgba(125, 139, 189, 0.73)), url('../assets/images/rectangle_82.png') 50% / cover no-repeat;
+  position: relative;
+  margin-left: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 91px 136px 987px 138px;
+  width: 1589px;
+  box-sizing: border-box;
+}
+.clients .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.clients .rectangle-81 {
+  background: #383086;
+  position: absolute;
+  left: 66px;
+  top: 168px;
+  right: 65px;
+  height: 3px;
+}
+.clients .container-12 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 38px 115px 9px;
+  display: flex;
+  padding: 93px 65px 60px 67px;
+  box-sizing: border-box;
+}
+.clients .rectangle-85 {
+  border-radius: 0 0 31px 31px;
+  background: #D4DBF5;
+  position: relative;
+  width: 1582px;
+  height: 558px;
+}
+.clients .vector-7 {
+  border-radius: 31px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 1582px;
+  height: 503px;
+}
+.clients .shape-4 {
+  box-shadow: 7px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 104px;
+  height: 71px;
+}
+.clients .container-8 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 48px;
+  display: flex;
+  padding: 101px 0 143px 0;
+  width: 230px;
+  height: 315px;
+  box-sizing: border-box;
+}
+.clients .instagram {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-21 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: relative;
+  margin: 218px 49px 0 0;
+  display: flex;
+  padding: 25px 0 24px 5.5px;
+  width: 230px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.clients .twitter {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-34 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: relative;
+  margin: 218px 49px 0 0;
+  display: flex;
+  padding: 25px 0.1px 24px 0;
+  width: 230px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.clients .facebook {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-14 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: relative;
+  margin-top: 218px;
+  display: flex;
+  padding: 25px 0 24px 2.9px;
+  width: 230px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.clients .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1066px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.clients .shape-1 {
+  box-shadow: 8px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 69.2px;
+  height: 69.2px;
+}
+.clients .container-1 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 279px;
+  bottom: 0px;
+  display: flex;
+  padding-right: 0.8px;
+  width: 230px;
+  height: 315px;
+  box-sizing: border-box;
+}
+.clients .shape-2 {
+  box-shadow: 6px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 74.6px;
+  height: 61.1px;
+}
+.clients .container-30 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 279px;
+  bottom: 0px;
+  display: flex;
+  padding-left: 16.6px;
+  width: 230px;
+  height: 315px;
+  box-sizing: border-box;
+}
+.clients .shape-3 {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 73.3px;
+  height: 73.3px;
+}
+.clients .container-35 {
+  box-shadow: 9px 11px 4px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 44px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding-left: 7.3px;
+  width: 230px;
+  height: 315px;
+  box-sizing: border-box;
+}
+.clients .group-32 {
+  border-radius: 44px;
+  position: absolute;
+  left: 50%;
+  bottom: 98px;
+  translate: -50% 0;
+  display: flex;
+  padding-right: 1px;
+  width: 1067px;
+  box-sizing: border-box;
+}
+.clients .youtube {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.clients .container-23 {
+  border-radius: 30px 30px 44px 44px;
+  background: #383086;
+  position: absolute;
+  left: 257px;
+  bottom: 98px;
+  display: flex;
+  padding: 25px 3.1px 24px 0;
+  width: 230px;
+  box-sizing: border-box;
+}
+.clients .shape-9 {
+  width: 58.5px;
+  height: 58.5px;
+}
+.clients .social-networks-fill-slack {
+  display: flex;
+  width: 78px;
+  height: 78px;
+  box-sizing: border-box;
+}
+.clients .container-37 {
+  border-radius: 50px;
+  background: #D4DBF5;
+  position: relative;
+  margin: 0 7px 25px 0;
+  display: flex;
+  padding: 20.8px 0;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.clients .official-account-of-indias-public-service-broadcaster-prasar-bharati-dd-air {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.clients .prasar-bharati-social-media-handle {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.clients .group-261 {
+  position: relative;
+  margin-top: 19px;
+  padding-top: 52px;
+  width: 905px;
+  box-sizing: border-box;
+}
+.clients .group-33 {
+  position: absolute;
+  left: 151px;
+  top: 53px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clients .container-10 {
+  box-shadow: 19px 18px 4px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 31px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 110px 306px 82px;
+  display: flex;
+  padding: 80px 0 0 1px;
+  width: 1583px;
+  height: 638px;
+  box-sizing: border-box;
+}
+.clients .circulars-tenders {
+  margin: 3.9px 134.8px 412.8px 0;
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 30px;
+  color: #383086;
+}
+.circulars-tenders-sub79 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.circulars-tenders-sub78 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.333;
+  color: #383086;
+}
+.circulars-tenders {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.clients .prasar-bharati-board-citizens-charter-feedback {
+  margin: 1.7px 77.3px 0 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #383086;
+}
+.prasar-bharati-board-citizens-charter-feedback-sub10 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.prasar-bharati-board-citizens-charter-feedback-sub8 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.prasar-bharati-board-citizens-charter-feedback {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.clients .ministry-of-ibcvc-epledge {
+  margin-bottom: 46.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #383086;
+}
+.ministry-of-ibcvc-epledge-sub7 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.ministry-of-ibcvc-epledge {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.clients .container-28 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clients .image-46 {
+  background: url('../assets/images/image_46.png') 50% / cover no-repeat;
+  margin-left: 6px;
+  width: 321px;
+  height: 322px;
+}
+.clients .container-32 {
+  margin-right: 102.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.clients .disclaimer-contact-us-help-sitemap {
+  margin: 9.3px 0 317.4px 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #383086;
+}
+.disclaimer-contact-us-help-sitemap-sub13 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.disclaimer-contact-us-help-sitemap-sub11 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.disclaimer-contact-us-help-sitemap-sub10 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.disclaimer-contact-us-help-sitemap {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #383086;
+}
+.clients .container-22 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clients .get-news-onair-app {
+  margin-left: 8.6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 30px;
+  color: #383086;
+}
+.clients .container-20 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 47px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 104.3px 0 82px 0;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.clients .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 1775px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.clients .firstline {
+  width: 73px;
+  height: 71.3px;
+}
+.clients .vuesaxbrokenfirstline {
+  position: absolute;
+  left: 56px;
+  top: 252.2px;
+  display: flex;
+  width: 73px;
+  height: 71.3px;
+  box-sizing: border-box;
+}
+.clients .image-41 {
+  background: url('../assets/images/image_41.png') 50% / cover no-repeat;
+  width: 569px;
+  height: 847px;
+}
+.clients .group-29 {
+  margin-right: 184px;
+  display: flex;
+  width: 1692px;
+  height: 1047.2px;
+  box-sizing: border-box;
+}
+.clients .image-40 {
+  background: url('../assets/images/image_40.png') 50% / cover no-repeat;
+  margin: 76px 0 75px 0;
+  width: 543px;
+  height: 696px;
+}
+.clients .container-24 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1296px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.clients .image-38 {
+  border-radius: 0 0 60px 0;
+  background: url('../assets/images/image_38.png') 50% / cover no-repeat;
+  width: 504px;
+  height: 653px;
+}
+.clients .container-11 {
+  background: url('../assets/images/image_42.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  padding: 0 12px 60.2px 12px;
+  width: 615px;
+  height: 822.2px;
+  box-sizing: border-box;
+}
+.clients .image-44 {
+  background: url('../assets/images/image_44.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 326px;
+  top: 1px;
+  width: 564px;
+  height: 846px;
+}
+.clients .image-43 {
+  background: url('../assets/images/image_43.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 7px;
+  bottom: 58.2px;
+  width: 462px;
+  height: 713px;
+}
+.clients .image-37 {
+  background: url('../assets/images/image_37.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 638px;
+  bottom: 60.2px;
+  width: 369px;
+  height: 521px;
+}
+.clients .image-39 {
+  background: url('../assets/images/image_39.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 348px;
+  bottom: 60.2px;
+  width: 494px;
+  height: 521px;
+}
+.clients .image-45 {
+  background: url('../assets/images/image_45.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 414px;
+  bottom: 60.2px;
+  width: 345px;
+  height: 500px;
+}
+.clients .group-30 {
+  position: absolute;
+  right: -38px;
+  bottom: 1799.8px;
+  width: 1692px;
+  height: 1047.2px;
+  box-sizing: border-box;
+}
+.clients .whats-new {
+  margin-right: 28.5px;
+  width: 193px;
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 46px;
+  color: #FFFFFF;
+}
+.clients .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 46px;
+  color: #FFFFFF;
+}
+.clients .related-links {
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 46px;
+  color: #FFFFFF;
+}
+.clients .prasar-bharati {
+  overflow-wrap: break-word;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 46px;
+  color: #FFFFFF;
+}
+.clients .container-5 {
+  background: #383086;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 639px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 34px 0 22px 0;
+  box-sizing: border-box;
+}
+.clients {
+  background: #F1F4FD;
+  display: flex;
+  padding-top: 18px;
+  width: 1728px;
+  box-sizing: border-box;
+}
